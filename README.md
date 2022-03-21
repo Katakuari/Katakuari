@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Kata</h1>
-<h3 align="center">Hobbyist scripter and (maybe) future programmer from 🇩🇪</h3>
+<h3 align="center">Just a guy from 🇩🇪</h3>
 
 - 🔭 I’m currently working on things like [youtube-dl scripts](https://github.com/Katakuari/ytdl-win-scripts)
 
