@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Kata</h1>
 <h3 align="center">Just a guy from 🇩🇪</h3>
 
-- 🔭 I’m currently working on things like [youtube-dl scripts](https://github.com/Katakuari/ytdl-win-scripts)
+- 🔭 I’m currently working on whatever I feel like working on
 
 - 🌱 I’m currently learning **Python**
 
